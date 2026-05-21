@@ -60,7 +60,5 @@ Executive Overview:
 Tools Used
 * Data Analysis Expressions (DAX)for measures
 * Power Query
-* Data Modelling
-* Bing Maps
-- **Data Modeling** — Table relationships
-- **Bing Maps** — Geographic visualization
+* Data Modeling 
+* Bing Maps — Geographic visualization
