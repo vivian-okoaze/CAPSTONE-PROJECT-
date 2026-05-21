@@ -4,7 +4,7 @@ Logistics Operations Dashboard
 
 Overview
 
-This interactive Power BI dashboard is built to analyze and monitor logistics operations of a company.The dashboard provides actionable insights across revenue, delivery performance, driver efficency and fleet management. 
+This interactive Power BI dashboard is built to analyze and monitor logistics operations of a company. The dashboard provides actionable insights across revenue, delivery performance, driver efficency and fleet management. 
 This project contains four dashboards:
 Executive Overview:
 - Total Revenue: $262.53M
